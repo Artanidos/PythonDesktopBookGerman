@@ -1,0 +1,14 @@
+Planst du eine GUI Anwendung für Windows, Mac OS oder Linux in Python oder bist du neugierig was in deiner Lieblingsprogrammiersprache möglich ist, dann ist dieses Buch genau richtig für dich.
+Dieses Buch umfasst den gesamten Prozess angefangen mit der Installtion der nötigen Werkzeuge, über die Codierung der Anwendung bis hin zur Installation auf dem Endgerät mit Hilfe von Python, Qt5, PyQt5 und Visual Studio Code.
+Dieses Buch umfasst ausserdem den imperativen Weg mit der Nutzung von QtWidgets sowie den deklarativen Weg mittels QtQuick und QML.
+Ich werde dir zeigen, wie man Linux als Entwicklerplatform einrichtet und wie man Anwendungen auf Linux und einem Android Gerät installiert.
+Alle Anwendungen die in diesem Buch beschrieben sind sollten auch auf den anderen Platformen, die oben beschrieben wurden, laufen.
+
+Für Wen Ist Dieses Buch
+Wenn du in der Lage bist, einfache Programme in Python zu schreiben und interessiert bist Anwendungen mit einem grafischem Benutzer-Interface für alle möglichen Desktop-Platformen zu schreiben, dann ist dieses Buch genau das richtige für dich. 
+Du musst dich nicht unbedingt mit Qt auskennen. 
+Wenn du willst, probiere alle Beispiele aus diesem Buch selber aus. Von Vorteil wäre es, wenn du auch, wie ich, auf Linux arbeitest. Die Beispiele sollten aber auch mühelos auf MacOS und Windows laufen. Lediglich für die Installation der benötigten Software solltest du dich selber im Internet einlesen, da ich nur die nötigen Schritte für Linux erkläre.
+
+Wenn du bereits mein Buch Python GUI - Erstelle Cross Platform GUI Applikationen using Python, Qt und PyQt5 gelesen hast, wirst du sehen, das ich lediglich das Kapitel mit Android durch ein neues Kapitel mit LOB ersetzt habe. Neben einige Verbesserungen hat sich ansonsten aber nicht viel geändert.
+Eine LOB ist eine Anwendung, bei der du über eine grafische Benutzeroberfläche verfügst und die Daten in einer Datenbank gespeichert sind.
+
